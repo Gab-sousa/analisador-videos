@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisador de Videos</title>
+</head>
+<body>
+    <h1>Digite a URL do Video</h1>
+    
+    <form action="/analise" method="POST">
+        <label for="user_input">Insira um dado:</label>
+        <input type="text" id="user_input" name="user_input">
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h1>Analise do video inserido:</h1>
+    <p>{{ analise }}</p>
+</body>
+</html>
