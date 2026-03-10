@@ -29,7 +29,7 @@ entendimento do conteúdo sem precisar assistir ao vídeo completo.
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+##  Autor
 
 Gabriel Mendes de Sousa
 
@@ -38,7 +38,7 @@ Gabriel Mendes de Sousa
 
 ------------------------------------------------------------------------
 
-## 📄 Licença
+##  Licença
 
 Este projeto é apenas para fins educacionais e aprendizado em Python e
 integração de APIs.
